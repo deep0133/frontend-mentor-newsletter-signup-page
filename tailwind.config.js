@@ -4,10 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        mobile:
-          "url('./src/components/assets/illustration-sign-up-mobile.svg')",
-        desktop:
-          "url('./src/components/assets/illustration-sign-up-desktop.svg')",
+        mobile: "url('./src/images/illustration-sign-up-mobile.svg')",
+        desktop: "url('./src/images/illustration-sign-up-desktop.svg')",
       },
     },
   },

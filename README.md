@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/deep0133/frontend-mentor-newsletter-signup-page](https://github.com/deep0133/frontend-mentor-newsletter-signup-page.git)
-- Live Site URL: [https://deep0133.github.io/frontend-mentor-newsletter-signup-page](https://deep0133.github.io/frontend-mentor-newsletter-signup-page/)
+- Solution URL: [https://github.com/deep0133/frontend-mentor-newsletter-signup-page](https://github.com/deep0133/frontend-mentor-newsletter-signup-page)
+- Live Site URL: [frontendnewslettersignuppage.netlify.app](https://frontendnewslettersignuppage.netlify.app/)
 
 ### Built with
 

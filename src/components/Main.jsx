@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import iconList from "./assets/images/icon-list.svg";
+import iconList from "./assets/icon-list.svg";
 
 /* eslint-disable react/prop-types */
 const Main = ({ email, setEmail }) => {

@@ -5,9 +5,9 @@ export default {
     extend: {
       backgroundImage: {
         mobile:
-          "url('./src/components/assets/images/illustration-sign-up-mobile.svg')",
+          "url('./src/components/assets/illustration-sign-up-mobile.svg')",
         desktop:
-          "url('./src/components/assets/images/illustration-sign-up-desktop.svg')",
+          "url('./src/components/assets/illustration-sign-up-desktop.svg')",
       },
     },
   },

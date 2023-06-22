@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://deep0133.github.io/frontend-mentor-newsletter-signup-page/)
+- Solution URL: [https://github.com/deep0133/frontend-mentor-newsletter-signup-page](https://github.com/deep0133/frontend-mentor-newsletter-signup-page.git)
+- Live Site URL: [https://deep0133.github.io/frontend-mentor-newsletter-signup-page](https://deep0133.github.io/frontend-mentor-newsletter-signup-page/)
 
 ### Built with
 
